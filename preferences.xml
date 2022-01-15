@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<favorite movie>Interstellar</favorite movie>
-<favorite series>Breaking Bad</favorite series>
-<favorite food>Meat</favorite food>
-<favorite season>Summer</favorite_season>
-<country you_would_like_visit>Seychells</country you would like visit>
+<favorite_movie>Interstellar</favorite_movie>
+<favorite_series>Breaking Bad</favorite_series>
+<favorite_food>Meat</favorite_food>
+<favorite_season>Summer</favorite_season>
+<country_you_would_like_visit>Seychells</country_you_would_like_visit>
