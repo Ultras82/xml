@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<id>json_1</id>,
+<id>xml_1</id>,
 <projekt>15/01/21/Mikhail</projekt>,
-<category>github_json</category>,
+<category>github_xml</category>,
 <reporter>Mikhail</reporter>,
 <assigned_to>Mikhail</assigned_to>,
 <priority>normal</priority>,
