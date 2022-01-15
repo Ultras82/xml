@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"
+<id>json_1</id>,
+<projekt>15/01/21/Mikhail</projekt>,
+<category>github_json</category>,
+<reporter>Mikhail</reporter>,
+<assigned_to>Mikhail</assigned_to>,
+<priority>normal</priority>,
+<severity>minor</severity>,
+<status>accepted</status>,
+<resolution>open</resolution>,
+<platform>Firefox_Mozilla_95.0.2</platform>,
+<os>windows_10</os>,
+<summary>typos_in_homework_text_in_txt_document</summary>,
+<description>typos_in_homework_text_in_txt_document</description>,
+<steps_to_reproduce>open_text_document_homework</steps_to_reproduce>,
+<actual_result>typos_in_the_text</actual_result>,
+<expected_result>There_shouldn't_be_any_typos</expected_result>,
+<attached_files>typos.jpg</attached_files>
