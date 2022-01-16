@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <id>xml_1</id>
-<project>15/01/21/Mikhail</projekt>
+<project>15/01/21/Mikhail</project>
 <category>github_xml</category>
 <reporter>Mikhail</reporter>
 <assigned_to>Mikhail</assigned_to>
@@ -9,7 +9,7 @@
 <status>accepted</status>
 <resolution>open</resolution>
 <platform>Firefox_Mozilla_95.0.2</platform>
-<environment>windows_10</os>
+<environment>windows_10</environment>
 <summary>typos_in_homework_text_in_txt_document</summary>
 <description>typos_in_homework_text_in_txt_document</description>
 <steps_to_reproduce>open_text_document_homework</steps_to_reproduce>
